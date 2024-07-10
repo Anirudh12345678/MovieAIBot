@@ -1,3 +1,11 @@
+
+This Website is powered by Spring AI in the backend, which connects to an OPENAI client and generates responses.
+These responses are retruned by API's which we will hit using Next JS
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
